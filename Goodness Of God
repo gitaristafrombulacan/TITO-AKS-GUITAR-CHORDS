@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Goodness of God - TITO AKS GUITAR CHORDS</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #111;
+            color: white;
+            margin: 0;
+        }
+
+        header {
+            background: #222;
+            padding: 25px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 30px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: auto;
+            padding: 30px;
+        }
+
+        .back {
+            display: inline-block;
+            margin-bottom: 25px;
+            color: #ffcc00;
+            text-decoration: none;
+        }
+
+        .song-info {
+            background: #222;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 25px;
+        }
+
+        .song-info h2 {
+            margin-top: 0;
+        }
+
+        .chords {
+            background: #181818;
+            padding: 25px;
+            border-radius: 10px;
+            font-family: monospace;
+            font-size: 18px;
+            line-height: 1.8;
+            white-space: pre-wrap;
+        }
+
+        .chord {
+            color: #ffcc00;
+            font-weight: bold;
+        }
+
+        footer {
+            text-align: center;
+            padding: 30px;
+            color: #888;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>🎸 TITO AKS GUITAR CHORDS</h1>
+</header>
+
+<div class="container">
+
+    <a class="back" href="index.html">
+        ← Back to Songs
+    </a>
+
+    <div class="song-info">
+        <h2>Goodness of God</h2>
+
+        <p><strong>Artist:</strong> Bethel Music</p>
+        <p><strong>Key:</strong> G</p>
+        <p><strong>Capo:</strong> None</p>
+        <p><strong>Tuning:</strong> Standard EADGBE</p>
+    </div>
+
+    <div class="chords">
+
+[Intro]
+
+G   C   G   D
+
+
+[Verse]
+
+G
+Your chord arrangement goes here
+
+C
+Your chord arrangement goes here
+
+Em
+Your chord arrangement goes here
+
+D
+Your chord arrangement goes here
+
+
+[Chorus]
+
+G          C
+Your chord arrangement goes here
+
+Em         D
+Your chord arrangement goes here
+
+
+[Bridge]
+
+C          G
+Your chord arrangement goes here
+
+D          Em
+Your chord arrangement goes here
+
+    </div>
+
+</div>
+
+<footer>
+    © 2026 TITO AKS GUITAR CHORDS
+</footer>
+
+</body>
+</html>
